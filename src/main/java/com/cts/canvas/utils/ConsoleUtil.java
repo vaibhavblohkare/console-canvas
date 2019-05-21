@@ -5,19 +5,18 @@ import java.util.Arrays;
 public class ConsoleUtil {
 
 	 public static void printMenu() {
+	  
 	        System.out.println("******************************************");
-	        System.out.println("***********  Hello Dear Reviewer *********");
+	        System.out.println("*                  MENU                  *");
 	        System.out.println("******************************************");
 	        System.out.println("*                                        *");
-	        System.out.println("*                  CMD                   *");
-	        System.out.println("*                                        *");
-	        System.out.println("*   0) C w h          to create a convas *");
-	        System.out.println("*   1) L x1 y1 x2 y2  to draw a line     *");
-	        System.out.println("*   2) R x1 y1 x2 y2  to draw rectangle  *");
-	        System.out.println("*   3) B x1 y1 color  to refill          *");
+	        System.out.println("*   1) C w h          to create a convas *");
+	        System.out.println("*   2) L x1 y1 x2 y2  to draw a line     *");
+	        System.out.println("*   3) R x1 y1 x2 y2  to draw rectangle  *");
+	        System.out.println("*   4) B x1 y1 color  to refill          *");
 	        System.out.println("*                                        *");
 	        System.out.println("******************************************");
-	        System.out.println("*   4) Q              to Exit            *");
+	        System.out.println("*   5) Q              to Exit            *");
 	        System.out.println("******************************************");
 	 }
 	 
