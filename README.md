@@ -21,7 +21,9 @@ Simple console version of a drawing program
 `1)Output with all valid inputs`
 ![alt tag](CanvasWithValidInputs.jpg)
 
+
 `2)Output with invalid inputs`
+
 ![alt tag](CanvasWithInvalidInput.jpg)
 
 
